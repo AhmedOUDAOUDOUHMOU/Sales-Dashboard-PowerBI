@@ -30,22 +30,22 @@ Le tableau de bord contient quatre pages principales :
 ### 1. 📈 Sales and KPIs (Ventes et KPI)
 - **English:** Overview of key metrics, including sales trends, return rates, and profitability. Displays essential KPIs for a quick assessment of overall performance.
 - **Français:** Vue d’ensemble des indicateurs clés, incluant les tendances des ventes, les taux de retour, et la rentabilité.
-![Ventes et KPI](images/ventes_et_kpi.png)
+![Ventes et KPI](images/1. Sales & KPI.png)
 
 ### 2. 💸 Sales (Ventes)
 - **English:** Detailed breakdown of sales by region, category, and sub-category. Includes sales trends over time for better forecasting.
 - **Français:** Détail des ventes par région, catégorie et sous-catégorie. Comprend les tendances des ventes au fil du temps pour améliorer les prévisions.
-![Sales](images/ventes.png)
+![Sales](images/2. Sales.png)
 
 ### 3. 🔄 Returns (Retour)
 - **English:** Analysis of returns by region and category, and their impact on profits. Identifies problem areas and opportunities to reduce returns.
 - **Français:** Analyse des retours par région et catégorie, ainsi que leur impact sur les profits. Identifie les zones problématiques et les opportunités pour réduire les retours.
-![Returns](images/retour.png)
+![Returns](images/3. Returns.png)
 
 ### 4. 🚚 Shipping Mode
 - **English:** Detailed analysis of shipping performance by mode. Includes metrics like sales, profits, and average shipping time.
 - **Français:** Analyse détaillée des performances de livraison par mode. Inclut des métriques comme les ventes, les profits, et les délais moyens de livraison.
-![Shipping Mode](images/shipping_mode.png)
+![Shipping Mode](images/4. Shipping.png)
 
 ---
 
